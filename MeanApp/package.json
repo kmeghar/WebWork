@@ -1,0 +1,23 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "Mean Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mean",
+    "App"
+  ],
+  "author": "Megha Kudumala",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16",
+    "mongose": "0.0.2-security",
+    "morgan": "^1.9.0"
+  }
+}
