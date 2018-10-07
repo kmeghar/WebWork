@@ -10,6 +10,7 @@ contract Election {
 
     // Store Candidates
     // Fetch Candidate
+    //change to commit
     mapping(uint => Candidate) public candidates;
     // Store Candidates Count
     uint public candidatesCount;
